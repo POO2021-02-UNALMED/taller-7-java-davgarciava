@@ -41,7 +41,7 @@ public class Tesis extends Escrito {
 	}
 	
 	public String getReferencias() {
-		return this.conclusion;
+		return this.referencias;
 	}
 	
 	public void setReferencias(String referencias) {
